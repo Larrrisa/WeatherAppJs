@@ -6,4 +6,4 @@ HTML/CSS/JavaScript
 
 ## Description
 
-You can add different cities for tracking weather. The app displays the temperature and simple description. To view your local weather, simply click on the special button.
+You can add different cities for tracking weather. The app displays the temperature and simple description.
