@@ -1,3 +1,9 @@
-# WeatherApp
+# WeatherAppJS
+Traditional weather app. API: https://openweathermap.org/.
 
-You can search cities in Russian and English.
+## Built with
+HTML/CSS/JavaScript
+
+## Description
+
+You can add different cities for tracking weather. The app displays the temperature and simple description. To view your local weather, simply click on the special button.
