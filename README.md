@@ -2,7 +2,7 @@
 Traditional weather app. API: https://openweathermap.org/.
 
 ## Built with
-HTML/CSS/JavaScript
+#### `HTML/CSS/JavaScript`
 
 ## Description
 
